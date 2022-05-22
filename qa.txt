@@ -1,7 +1,0 @@
-color; red
-pet; Turbo
-birthday; July 18, 1999
-maiden name; Lee
-best friend; Mark
-food; sushi
-
